@@ -136,7 +136,7 @@ Available commands:
 | ban_reportdir           | option | /tmp/banIP-report             | directory where banIP stores the report files                                         |
 | ban_backupdir           | option | /tmp/banIP-backup             | directory where banIP stores the compressed backup files                              |
 | ban_protov4             | option | - / autodetect                | enable IPv4 support                                                                   |
-| ban_protov6             | option | - / autodetect                | enable IPv4 support                                                                   |
+| ban_protov6             | option | - / autodetect                | enable IPv6 support                                                                   |
 | ban_ifv4                | list   | - / autodetect                | logical wan IPv4 interfaces, e.g. 'wan'                                               |
 | ban_ifv6                | list   | - / autodetect                | logical wan IPv6 interfaces, e.g. 'wan6'                                              |
 | ban_dev                 | list   | - / autodetect                | wan device(s), e.g. 'eth2'                                                            |
